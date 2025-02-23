@@ -1,0 +1,7 @@
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\02_Variables\obj\Debug\02_Variables.pdb
