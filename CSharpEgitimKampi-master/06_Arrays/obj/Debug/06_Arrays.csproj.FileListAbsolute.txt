@@ -1,0 +1,7 @@
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\DeltaL2\Desktop\CSharpEgitimKampi-master\06_Arrays\06_Arrays\obj\Debug\06_Arrays.pdb
